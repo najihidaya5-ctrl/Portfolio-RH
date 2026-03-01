@@ -136,21 +136,6 @@ Ajout affichage graphiques
 
 ---
 
-## Positionnement Professionnel
-
-Mon parcours en contrôle de gestion m’a permis de développer une forte capacité d’analyse et de compréhension des enjeux business.
-
-Aujourd’hui, je me positionne comme un profil hybride Finance & Ressources Humaines, capable de :
-
-- Comprendre les enjeux financiers et organisationnels d’une entreprise  
-- Contribuer au suivi des indicateurs sociaux  
-- Structurer et analyser des données RH  
-- Apporter une approche rigoureuse et méthodique aux projets RH  
-- Collaborer efficacement avec les managers et les équipes  
-
-
----
-
 
 ## Contact
 
