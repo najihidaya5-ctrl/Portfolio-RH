@@ -83,41 +83,6 @@ Structurer l’accueil des nouveaux collaborateurs.
 - Clarification des rôles RH / managers
 
 ---
-
-## 5. Compétences Clés en RH
-
-- Analyse des besoins en recrutement
-- Suivi et pilotage des effectifs
-- Construction d’indicateurs RH
-- Gestion administrative du personnel
-- Amélioration des processus RH
-- Communication interne
-
----
-
-## 6. Atouts Différenciants
-
-- Profil analytique structuré
-- Rigueur organisationnelle
-- Vision stratégique de l’entreprise
-- Trilingue : Français, Anglais, Arabe
-- Maîtrise avancée d’Excel et outils analytiques
-
----
-
-## 7. Objectif 2026
-
-Intégrer un Master spécialisé en Ressources Humaines en alternance et évoluer vers des fonctions RH à responsabilité.
-
----
-
-## Contact
-
-Email : najihidaya5@gmail.com  
-LinkedIn : linkedin.com/in/hidayanaji
-
----
-
 ## 📊 Tableaux de Bord RH
 
 ### Suivi du Pipeline de Recrutement
@@ -130,3 +95,67 @@ Ajout affichage graphiques
 ### Suivi de la Satisfaction Onboarding
 
 ![Satisfaction Onboarding](onboarding_satisfaction.png)
+
+---
+## Compétences Clés
+
+### 🔹 Analyse & Pilotage
+
+- Analyse des écarts (réalisé vs prévisionnel)
+- Construction et suivi de KPI
+- Élaboration de reportings analytiques
+- Analyse de la performance organisationnelle
+- Lecture et interprétation de données financières et sociales
+
+---
+
+### 🔹 Pilotage RH & HR Analytics
+
+- Suivi des effectifs et indicateurs sociaux
+- Analyse de la masse salariale
+- Construction de tableaux de bord RH
+- Analyse du turnover et des indicateurs de recrutement
+- Approche data-driven appliquée aux RH
+
+---
+
+### 🔹 Recrutement & Développement RH
+
+- Analyse des besoins en recrutement
+- Suivi du processus de recrutement
+- Amélioration du parcours d’intégration (onboarding)
+- Gestion administrative du personnel
+- Communication avec les managers
+
+---
+
+### 🔹 Outils
+
+- Excel avancé (TCD, RECHERCHEV/X, INDEX/EQUIV, VBA)
+- Power BI
+- ERP & outils de gestion
+- Structuration et fiabilisation des données
+
+---
+
+## Positionnement Professionnel
+
+Mon parcours en contrôle de gestion m’a permis de développer une forte capacité d’analyse et de compréhension des enjeux business.
+
+Aujourd’hui, je me positionne comme un profil hybride Finance & Ressources Humaines, capable de :
+
+- Comprendre les enjeux financiers et organisationnels d’une entreprise  
+- Contribuer au suivi des indicateurs sociaux  
+- Structurer et analyser des données RH  
+- Apporter une approche rigoureuse et méthodique aux projets RH  
+- Collaborer efficacement avec les managers et les équipes  
+
+
+---
+
+
+## Contact
+
+Email : najihidaya5@gmail.com  
+
+---
