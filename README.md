@@ -4,13 +4,13 @@ Portfolio professionnel – Présentation de mes expériences et compétences
 
 ---
 
-## 1. Introduction
+## Introduction
 
-Actuellement en Master 2 à ICN Business School, je souhaite orienter mon parcours vers la gestion des Ressources Humaines.
+Actuellement en Master 2, Corporate Finance à ICN Business School en alternance en contrôle de gestion, j’ai développé une solide capacité d’analyse, de pilotage et de compréhension des enjeux stratégiques d’entreprise.
 
-Mon intérêt pour les RH s’est confirmé lors de mon stage au sein du département Ressources Humaines de LAMALIF Holding, où j’ai participé à des missions liées au recrutement et à la gestion administrative du personnel.
+Admise en MSc Ressources Humaines à SKEMA Business School, je souhaite désormais orienter pleinement mon parcours vers la gestion des Ressources Humaines.
 
-Aujourd’hui, je souhaite intégrer un Master spécialisé en Ressources Humaines en alternance afin de construire une carrière dans ce domaine.
+Mon expérience analytique, combinée à mon intérêt pour les dynamiques humaines et organisationnelles, me permet d’apporter une approche structurée et data-driven aux problématiques RH.
 
 ---
 
