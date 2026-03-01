@@ -16,14 +16,18 @@ Mon expérience analytique, combinée à mon intérêt pour les dynamiques humai
 
 ## 2. Projet Professionnel
 
-Mon ambition est d’évoluer vers des fonctions telles que :
+Issue d’un parcours analytique en contrôle de gestion, je souhaite aujourd’hui mettre cette expertise au service de la fonction Ressources Humaines.
 
-- Chargée de recrutement
-- Développement RH
-- Contrôle de gestion sociale
-- HR Business Partner (à moyen terme)
+Mon ambition est d’évoluer vers des fonctions stratégiques telles que HR Business Partner, où je pourrai accompagner les directions opérationnelles dans leurs décisions en matière de capital humain.
 
-Je souhaite contribuer à la performance des organisations en mettant l’humain au cœur de la stratégie.
+Je me positionne comme une analyste orientée RH, capable de :
+
+- Piloter des indicateurs sociaux
+- Analyser la masse salariale et les effectifs
+- Accompagner les managers dans leurs problématiques organisationnelles
+- Contribuer à la performance par une gestion stratégique des talents
+
+À moyen terme, mon objectif est d’occuper un poste à responsabilité en Ressources Humaines, avec une forte dimension business et stratégique.
 
 ---
 
