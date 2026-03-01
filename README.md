@@ -111,3 +111,18 @@ Intégrer un Master spécialisé en Ressources Humaines en alternance et évolue
 
 Email : najihidaya5@gmail.com  
 LinkedIn : linkedin.com/in/hidayanaji
+
+---
+
+## 📊 Tableaux de Bord RH
+
+### Suivi du Pipeline de Recrutement
+
+![Pipeline Recrutement](recruitment_pipeline.png)
+Ajout affichage graphiques
+
+---
+
+### Suivi de la Satisfaction Onboarding
+
+![Satisfaction Onboarding](onboarding_satisfaction.png)
