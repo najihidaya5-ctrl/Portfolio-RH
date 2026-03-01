@@ -1,7 +1,5 @@
 # Portfolio-RH
 Portfolio professionnel – Présentation de mes expériences et compétences
-# Portfolio – Transition vers les Ressources Humaines
-
 ---
 
 ## Introduction
